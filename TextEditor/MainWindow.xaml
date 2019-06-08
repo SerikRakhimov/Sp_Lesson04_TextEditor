@@ -1,0 +1,33 @@
+﻿<Window x:Class="TextEditor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TextEditor"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded" Closing="Window_Closing">
+    <Window.Resources>
+        <Style TargetType="Button">
+        <Setter Property="Height" Value="25" />
+        <Setter Property="Width" Value="80" />
+        <Setter Property="Margin" Value="25 5 25 5" />
+    </Style>
+        </Window.Resources>
+            <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Menu Height="25" VerticalAlignment="Top" Grid.Row="0">
+            <MenuItem Header="Файл">
+                <MenuItem Header="Открыть файл..." Click="Load_Click"/>
+                <MenuItem Header="Сохранить файл..." Click="Save_Click"/>
+            </MenuItem>
+            <MenuItem Header="Формат">
+                <MenuItem Header="Шрифт..." Click="Font_Click"/>
+            </MenuItem>
+            <MenuItem Header="Выход" Click="Exit_Click"/>
+        </Menu>
+        <RichTextBox x:Name="docBox" Grid.Row="1" />
+    </Grid>
+</Window>

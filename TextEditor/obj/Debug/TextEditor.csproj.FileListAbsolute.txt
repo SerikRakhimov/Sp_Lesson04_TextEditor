@@ -1,0 +1,32 @@
+C:\Users\РахимовС\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\РахимовС\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\РахимовС\source\repos\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\РахимовС\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+C:\Users\РахимовС\source\repos\TextEditor\TextEditor\obj\Debug\MainWindow.g.cs
+C:\Users\РахимовС\source\repos\TextEditor\TextEditor\obj\Debug\App.g.cs
+C:\Users\РахимовС\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.cache
+C:\Users\РахимовС\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.lref
+C:\Users\РахимовС\source\repos\TextEditor\TextEditor\obj\Debug\MainWindow.baml
+C:\Users\РахимовС\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.g.resources
+C:\Users\РахимовС\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\РахимовС\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\РахимовС\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\РахимовС\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TextEditor\TextEditor\obj\Debug\MainWindow.g.cs
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TextEditor\TextEditor\obj\Debug\App.g.cs
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TextEditor\TextEditor\obj\Debug\TextEditor_MarkupCompile.lref
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TextEditor\TextEditor\obj\Debug\MainWindow.baml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TextEditor\TextEditor\obj\Debug\TextEditor.g.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\Sp\TextEditor\TextEditor\obj\Debug\TextEditor.UserControlFontDialog.resources
+C:\Users\РахимовС\source\repos\TextEditor\TextEditor\obj\Debug\TextEditor.UserControlFontDialog.resources
